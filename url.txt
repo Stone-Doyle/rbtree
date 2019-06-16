@@ -1,7 +1,17 @@
-refer: https://zhuanlan.zhihu.com/p/48391055
 
-refer: https://www.mathsisfun.com/numbers/e-eulers-number.html
+refer: https://www.mathsisfun.com/numbers/pi.html
 
-refer: https://www.shuxuele.com/numbers/e-eulers-number.html
+refer: https://www.codeproject.com/Articles/813185/Calculating-the-Number-PI-Through-Infinite-Sequenc
 
-https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/
+https://cdn.nlark.com/lark/0/2019/png/61491/1558516473954-c37c1e2c-dee1-46cd-b045-b9850cb7e5ee.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1560688950&Signature=tI74e6nkc2tTKCQo4AwPHZS1x6s%3D
+
+
+https://cdn.nlark.com/lark/0/2019/png/61491/1558515935626-469a656f-273b-4345-97df-d7e42a0ba61a.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1560688964&Signature=fjMGaSU4%2FS4Lx%2FVkqKT%2Fyi2vriw%3D
+
+
+https://cdn.nlark.com/lark/0/2019/png/61491/1558515474200-272cc1d2-a58f-449a-866a-be67a0c311ec.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1560688975&Signature=oLnWbPg8Nh997GhjZKI3Jtj%2BFRA%3D
+
+
+
+https://cdn.nlark.com/lark/0/2019/png/61491/1558517257689-4a8688bf-9b2b-4568-b158-5493ddab39b0.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1560688987&Signature=K1ZBBPo2bekAjZLjGc55MeXtXDo%3D
+
