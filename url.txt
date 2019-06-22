@@ -1,9 +1,9 @@
-refer: https://www.mathsisfun.com/algebra/functions-odd-even.html
+refer: https://www.mathsisfun.com/calculus/concave-up-down-convex.html
 
-refer: https://www.shuxuele.com/algebra/functions-odd-even.html
+refer: https://www.shuxuele.com/calculus/concave-up-down-convex.html
 
-https://cdn.nlark.com/lark/0/2019/png/61491/1555587587755-6053afc2-50d2-4496-9c82-d9509dfbe445.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561169354&Signature=%2FoWecCOd2osAFx4shu4zJwGjiXQ%3D
+https://cdn.nlark.com/lark/0/2019/png/61491/1556100035099-2f83ddb3-80af-45a0-96dc-4a28e9a1e4bb.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561171708&Signature=%2F6QL1Egb%2FlgjKfKEHJiFaPjWEi4%3D
 
-https://cdn.nlark.com/lark/0/2019/png/61491/1555587770365-7b524ab0-c28b-4757-8772-3f8408c0e8e4.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561169356&Signature=mNdtl%2F1rofpwkYhPG3%2BZ0qrN1uI%3D
+https://cdn.nlark.com/lark/0/2019/png/61491/1556094851159-2dcb0c47-d3ae-4d2a-b205-e53db9aa990e.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561171710&Signature=Ulpm1o%2BVhghIJq2VSRvSclhs5k0%3D
 
-https://cdn.nlark.com/lark/0/2019/png/61491/1555587829028-18d471e2-142d-4001-afda-ef37f64f2a79.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561169359&Signature=NPw0ciHxkIvd%2BrqsqD%2F0pBfQBFk%3D
+https://cdn.nlark.com/lark/0/2019/png/61491/1556099905778-fc0f036f-4ffb-4354-b7a8-99bc6be8a963.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561171712&Signature=VLGScSu%2BDBi0QXHD0q6jAWputyw%3D
