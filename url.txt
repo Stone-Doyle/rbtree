@@ -1,3 +1,13 @@
-http://www.stat.ualberta.ca/people/schmu/preprints/factorial.pdf
+refer: https://www.mathsisfun.com/algebra/eulers-formula.html
 
-https://cdn.nlark.com/lark/0/2019/png/61491/1556183838368-08c50dc4-f71c-43f9-827d-b59649453049.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561177871&Signature=6Y1eUdxKkvJv4%2B%2Fr3FhhFY6PzhI%3D&x-oss-process=image%2Fresize%2Cw_644
+refer: https://www.shuxuele.com/algebra/eulers-formula.html
+
+https://www.matongxue.com/madocs/8/
+
+https://cdn.nlark.com/lark/0/2019/png/61491/1555901618522-8cec647e-866b-490c-a5fa-5667b458d47e.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561208866&Signature=huooWHDxD%2BLxAukyVdZax8rEq9s%3D
+
+https://cdn.nlark.com/lark/0/2019/png/61491/1555901719680-87d22f75-c20a-43a2-9820-f163d73afc79.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561208869&Signature=HC%2FH7jGUZOSD21GkuaezTRblINg%3D
+
+https://cdn.nlark.com/lark/0/2019/png/61491/1555901915279-4315d8ef-78af-4480-85bf-d7fbe3ab7612.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561208871&Signature=H6HWGZip50wX1niST29CZODTM2w%3D
+
+https://cdn.nlark.com/lark/0/2019/png/61491/1555902651737-59800bd9-6dd8-47ee-98fe-d32b57f1f885.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1561208874&Signature=s%2Fo2WBr9JWWfyWgVGfPFZiWJG1k%3D&x-oss-process=image%2Fresize%2Cw_398
