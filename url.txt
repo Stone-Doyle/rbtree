@@ -1,23 +1,15 @@
-https://www.mathsisfun.com/calculus/derivatives-introduction.html
+https://www.matongxue.com/madocs/847/
 
-https://www.matongxue.com/
+https://zhuanlan.zhihu.com/p/31963102
 
-https://zs.symbolab.com/solver/derivative-calculator/%5Cfrac%7Bd%7D%7Bdx%7D%5Cleft%28%5Cfrac%7B3x%2B9%7D%7B2-x%7D%5Cright%29
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557232980547-0f91fcae-c654-4e41-bf49-eb1c0e468b53.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314619&Signature=lZ73ICouEJpWFRKE8ZUfwA2l50w%3D
 
-http://cat.prhlt.upv.es/mer/
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233173926-4301c3f4-98c0-49da-bee1-acd3216cd864.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314621&Signature=guigQBHfZKdLPCSk3Fbkvx7mUsc%3D
 
-https://www.zhihu.com/question/28684811
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233200257-e1f60756-6823-4869-96b7-5d1d162fca50.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314623&Signature=4bAdQErCF41YvRO9FfuYmub1CDA%3D
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557045323669-78aaf958-22be-4496-8f49-bd48a3d76171.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564312441&Signature=EXrqkC%2BSIInEYNPVcEXUhLPtqsk%3D
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233295133-f107cd59-b6b6-423b-aad6-e585ad67ad3e.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314625&Signature=0xfjVv%2B7%2BHbVzGVAORZpJvCKtf0%3D
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557402679189-d69a0d2f-56e3-4fe7-87b4-d8c1a1d8c8c5.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564312445&Signature=qjGHY6iOnMcqtY2ZeA6rzeRC6lk%3D
-
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557402650338-619eaf2d-882d-4011-a7f4-58f22a4432c6.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564312447&Signature=B6Kg0ND%2B%2BCujBcY5agDyfyHGLKQ%3D
-
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557402531210-247cdf60-c2ea-4b8f-80e4-3087deaa89df.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564312451&Signature=j%2FkUOCm%2BWcEnV%2B4ZkQBrBFepnOk%3D
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233368600-c8690ce9-de25-4b73-a4af-68ae135471bf.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314628&Signature=fcezra2L4YFjaNGPj0DIkrfQrKA%3D
 
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557403730617-4a0518e9-2ad2-42be-b757-903e3b8fc296.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564312456&Signature=XYr4Qt4yzR8r8T2MutmEY6PfKEg%3D
-
-
-https://www.mathsisfun.com/calculus/derivatives-rules.html
