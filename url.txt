@@ -1,15 +1,15 @@
-https://www.matongxue.com/madocs/847/
+https://blog.csdn.net/gqtcgq/article/details/52076997
 
-https://zhuanlan.zhihu.com/p/31963102
+https://www.jscape.com/blog/load-balancing-algorithms
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557232980547-0f91fcae-c654-4e41-bf49-eb1c0e468b53.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314619&Signature=lZ73ICouEJpWFRKE8ZUfwA2l50w%3D
+https://en.wikipedia.org/wiki/Load_balancing_(computing)
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233173926-4301c3f4-98c0-49da-bee1-acd3216cd864.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314621&Signature=guigQBHfZKdLPCSk3Fbkvx7mUsc%3D
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566804587483-70da1d83-319f-466b-9e72-6dbe324fb422.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228184&Signature=WzUszqru8iW3t2VUtqj3qKT3XYo%3D
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233200257-e1f60756-6823-4869-96b7-5d1d162fca50.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314623&Signature=4bAdQErCF41YvRO9FfuYmub1CDA%3D
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566805017901-5fc2274c-71a2-42a0-b4fb-37e2edb1cb35.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228187&Signature=jq1LwhiKNYFui748A7p%2Bt%2BoQnW0%3D
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233295133-f107cd59-b6b6-423b-aad6-e585ad67ad3e.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314625&Signature=0xfjVv%2B7%2BHbVzGVAORZpJvCKtf0%3D
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566552381443-8ec2f69c-3368-4949-ac87-0fa0405aec15.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228191&Signature=60KwyH6%2FaCegX5KioT4hW7NtS7Y%3D
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1557233368600-c8690ce9-de25-4b73-a4af-68ae135471bf.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1564314628&Signature=fcezra2L4YFjaNGPj0DIkrfQrKA%3D
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566805485058-4ea756e4-c79f-4dc4-8a56-e9df50597a1f.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228194&Signature=M%2FLzR3llSnQV41DM0YPgDom1vzg%3D
 
 
