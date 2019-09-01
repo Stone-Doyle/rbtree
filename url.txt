@@ -1,15 +1,9 @@
-https://blog.csdn.net/gqtcgq/article/details/52076997
+	https://www.jianshu.com/p/05b70834dafe?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
 
-https://www.jscape.com/blog/load-balancing-algorithms
+https://blog.csdn.net/soonfly/article/details/70238902
 
-https://en.wikipedia.org/wiki/Load_balancing_(computing)
+https://blog.csdn.net/lslxdx/article/details/56846661
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566804587483-70da1d83-319f-466b-9e72-6dbe324fb422.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228184&Signature=WzUszqru8iW3t2VUtqj3qKT3XYo%3D
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1567322138914-12d1ded6-69e7-4517-bac7-8b2c5573295b.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567324011&Signature=P9KtYxreEhh84DVJrlsi4Bo1P8U%3D
 
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566805017901-5fc2274c-71a2-42a0-b4fb-37e2edb1cb35.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228187&Signature=jq1LwhiKNYFui748A7p%2Bt%2BoQnW0%3D
-
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566552381443-8ec2f69c-3368-4949-ac87-0fa0405aec15.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228191&Signature=60KwyH6%2FaCegX5KioT4hW7NtS7Y%3D
-
-https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1566805485058-4ea756e4-c79f-4dc4-8a56-e9df50597a1f.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567228194&Signature=M%2FLzR3llSnQV41DM0YPgDom1vzg%3D
-
-
+https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/lark/0/2019/png/61491/1567322170075-ab1cc463-9f1a-410c-a416-04456bfe65b0.png?OSSAccessKeyId=LTAIX2KDHwZymFhr&Expires=1567324015&Signature=UPG7kEpwC72HVfQYNWi0sJ1H1K8%3D
